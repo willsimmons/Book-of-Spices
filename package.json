@@ -8,7 +8,7 @@
     "build:android": "cd android && ./gradlew assembleRelease"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.12",
     "lottie-react-native": "2.3.2",
     "prop-types": "^15.6.0",
     "react": "16.2.0",
